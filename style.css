@@ -1,0 +1,33 @@
+				        
+body {
+	background-image: url("reka.jpg");
+	background-repeat: no-repeat;
+	background-position: center top;
+	background-size: 85%;
+	background-color: black
+
+}
+h1 {text-decoration: underline;
+	font-family: "Almoni DL AAA" , sans-serif;
+	color: aliceblue;
+	font-weight: bold;
+	font-size: 25pt;
+	line-height: 0.5;
+	text-align: center;}
+
+	h2 {text-decoration: underline;
+		font-family: "Almoni DL AAA" , sans-serif;
+		color: aliceblue;
+		font-weight: bold;
+		font-size: 20pt;
+		line-height: 0.0;
+		text-align: center; }
+p {
+	font-family: "Almoni DL AAA" , sans-serif;
+	color: aliceblue;
+	font-weight: lighter;
+	font-size: 15pt;
+	line-height: 1;
+	text-align: center;
+	
+}	
